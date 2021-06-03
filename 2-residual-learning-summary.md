@@ -28,5 +28,5 @@ The results of using shortcut connections is deeper models get more accurate at 
 
 ## My questions
 > Identity shortcut connections add neither extra parameter nor computational complexity.
-1. is parameter complexity just number of parameters? By computational cmplexity do they mean space,Btime, or both? 
+1. is parameter complexity just number of parameters? By computational cmplexity do they mean space, time, or both? 
 2. Shortcut connections do not increase the number of FLOPs. How/why? 
